@@ -1,6 +1,6 @@
-# Experimental builds of zjazz cuda miner #
+# Experimental builds of zjazz CUDA miner #
 
-This repository contains experimental builds of [zjazz cuda miner](https://github.com/zjazz/zjazz_cuda_miner).
+This repository contains experimental builds of [zjazz CUDA miner](https://github.com/zjazz/zjazz_cuda_miner).
 
 **Builds may be unstable and buggy, not recomended for production environment. Use at your own risk.**
 
