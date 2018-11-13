@@ -1,5 +1,8 @@
 # Experimental builds of zjazz CUDA miner #
 
+BSHA3 CUDA miner: https://github.com/zjazz/zjazz_cuda_miner_experimental/releases/tag/bsha3_1200_cuda
+
+
 This repository contains experimental builds of [zjazz CUDA miner](https://github.com/zjazz/zjazz_cuda_miner).
 
 **Builds may be unstable and buggy, not recomended for production environment. Use at your own risk.**
